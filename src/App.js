@@ -1,5 +1,6 @@
-import React from 'react'
+import React from 'react';
+import Square from './components/Square';
 
-const App = () => <h1>vai 15 dias de react!!</h1>
+const App = () => <Square />;
 
-export default App
+export default App;
