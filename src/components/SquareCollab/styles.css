@@ -1,0 +1,8 @@
+.square{
+    background-color: transparent;
+    border: 2px solid purple;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    color: palevioletred;
+}
